@@ -30,7 +30,7 @@ docType: "directive"
 
 
 
-This directive allows you to specify a <a href="https://famo.us/docs/0.1.1/views/Scrollview/">famo.us Scrollview</a>
+This directive allows you to specify a <a href="https://famo.us/docs/0.2.0/views/Scrollview/">famo.us Scrollview</a>
 that will lay out a collection of renderables sequentially in the specified direction
 and will allow you to scroll through them with mousewheel or touch events.
 
