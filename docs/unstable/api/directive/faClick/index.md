@@ -72,8 +72,8 @@ This directive allows you to specify custom behavior when an element is clicked.
   <code>expression</code>
       </td>
       <td>
-        <p><a href="<a">TODO:href="https://docs.angularjs.org/guide/expression">https://docs.angularjs.org/guide/expression</a> Expression</a> to evaluate upon
-click. (<a href="<a">TODO:href="https://docs.angularjs.org/guide/expression#-event-">https://docs.angularjs.org/guide/expression#-event-</a> Event object is available as <code>$event</code></a>)</p>
+        <p><a href="https://docs.angularjs.org/guide/expression">Expression</a> to evaluate upon
+click. (<a href="https://docs.angularjs.org/guide/expression#-event-">Event object is available as <code>$event</code></a>)</p>
 
         
       </td>
