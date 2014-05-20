@@ -30,7 +30,7 @@ docType: "directive"
 
 
 
-A directive to insert a <a href="https://famo.us/docs/0.1.1/core/RenderNode/">Famo.us RenderNode</a> that is
+A directive to insert a <a href="https://famo.us/docs/0.2.0/core/RenderNode/">Famo.us RenderNode</a> that is
 a wrapper for inserting a renderable component (like a Modifer or Surface) into the render tree.
 
 
