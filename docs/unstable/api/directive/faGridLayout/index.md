@@ -33,7 +33,7 @@ docType: "directive"
 This directive will create a Famo.us GridLayout containing the 
 specified child elements. The provided `options` object
 will pass directly through to the Famo.us GridLayout's
-constructor.  See [https://famo.us/docs/0.1.1/views/GridLayout/]
+constructor.  See [https://famo.us/docs/0.2.0/views/GridLayout/](https://famo.us/docs/0.2.0/views/GridLayout/)
 
 
 
